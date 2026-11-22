@@ -1,0 +1,8 @@
+make rest api
+perform crud operation using mongodbn
+
+
+- localhost:8000, get => this is get method
+- localhost:8000, post => this is post method
+- localhost:8000, patch/put => this is update method
+- localhost:8000, delete => this is delete method
