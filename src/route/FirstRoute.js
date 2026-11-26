@@ -9,6 +9,7 @@ firstRoute
     })
     .post((req, res) => {
         console.log("this is post method");
+        console.log(req.body);
         res.send("this is post method");
     })
     .patch((req, res) => {
